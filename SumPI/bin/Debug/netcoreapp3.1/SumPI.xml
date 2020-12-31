@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SumPI</name>
+    </assembly>
+    <members>
+        <member name="M:SumPI.Controllers.CalculateController.Pi(SumPI.Model.CalculateModel)">
+            <summary>
+            Calculates the Pi number with the predefined function.
+            </summary>
+            <param name="calculateModel"></param>
+            <returns></returns>
+        </member>
+        <member name="P:SumPI.Model.CalculateModel.IterationCount">
+            <summary>
+            Iteration count for predefined function.
+            </summary>
+        </member>
+    </members>
+</doc>
